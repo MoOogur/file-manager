@@ -1,0 +1,39 @@
+.table-dir {
+    margin-top: 20px;
+}
+
+.noselect-text {
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+    -khtml-user-select: none;
+    -moz-user-select: none; 
+    -ms-user-select: none;
+    user-select: none; 
+}
+
+#icon {
+    width: 15px;
+}
+
+.folder:hover {
+    background-color: #cce8ff;
+    cursor: pointer;
+}
+
+.icon-folder {
+    color: #ecc949;
+}
+
+.icon-file {
+    color: grey;
+}
+
+.sort {
+    cursor: pointer;
+}
+
+.sort-active {
+    background-color: #bcdcf4;
+}
+
+
